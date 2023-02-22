@@ -4,16 +4,16 @@
     "main.js.map": "https://jobet1995.github.io/csb-woc2qd/static/js/main.bbedb53e.chunk.js.map",
     "runtime-main.js": "https://jobet1995.github.io/csb-woc2qd/static/js/runtime-main.fa914a32.js",
     "runtime-main.js.map": "https://jobet1995.github.io/csb-woc2qd/static/js/runtime-main.fa914a32.js.map",
-    "static/js/2.c8daaaf5.chunk.js": "https://jobet1995.github.io/csb-woc2qd/static/js/2.c8daaaf5.chunk.js",
-    "static/js/2.c8daaaf5.chunk.js.map": "https://jobet1995.github.io/csb-woc2qd/static/js/2.c8daaaf5.chunk.js.map",
+    "static/js/2.c10bf769.chunk.js": "https://jobet1995.github.io/csb-woc2qd/static/js/2.c10bf769.chunk.js",
+    "static/js/2.c10bf769.chunk.js.map": "https://jobet1995.github.io/csb-woc2qd/static/js/2.c10bf769.chunk.js.map",
     "index.html": "https://jobet1995.github.io/csb-woc2qd/index.html",
-    "precache-manifest.5af79f19b61a6ab029e1f213976100b4.js": "https://jobet1995.github.io/csb-woc2qd/precache-manifest.5af79f19b61a6ab029e1f213976100b4.js",
+    "precache-manifest.5c21f3c0b5f7f312b93ed66b12089b94.js": "https://jobet1995.github.io/csb-woc2qd/precache-manifest.5c21f3c0b5f7f312b93ed66b12089b94.js",
     "service-worker.js": "https://jobet1995.github.io/csb-woc2qd/service-worker.js",
-    "static/js/2.c8daaaf5.chunk.js.LICENSE.txt": "https://jobet1995.github.io/csb-woc2qd/static/js/2.c8daaaf5.chunk.js.LICENSE.txt"
+    "static/js/2.c10bf769.chunk.js.LICENSE.txt": "https://jobet1995.github.io/csb-woc2qd/static/js/2.c10bf769.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fa914a32.js",
-    "static/js/2.c8daaaf5.chunk.js",
+    "static/js/2.c10bf769.chunk.js",
     "static/js/main.bbedb53e.chunk.js"
   ]
 }
